@@ -1,4 +1,4 @@
-# Pose Detection & Jump Performance Analysis
+# Computer Vision-Based Vertical Jump Analysis for Sports Performance
 
 A computer vision project that uses MediaPipe Pose Landmarker and OpenCV to analyze vertical jump performance from video recordings.
 
